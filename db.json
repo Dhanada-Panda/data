@@ -1,3 +1,16 @@
 {
-  "users": []
+  "foods": [
+    {
+      "name": "Res",
+      "image": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/cookies_sandwitch_ice_cream.jpg?itok=M_tmGlfh",
+      "price": 100
+    }
+  ],
+  "hello": [
+    {
+      "name": "food",
+      "image": "https://www.creationsbykara.com/wp-content/uploads/2009/05/Cookies-and-Cream-Ice-Cream-011-003-720x540.jpg",
+      "price": 200
+    }
+  ]
 }
