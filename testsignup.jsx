@@ -24,11 +24,11 @@ function SignUp() {
         }
       })
       .then((data) => {
-        alert("User account created successfully"); // Display success message
-        navigate("./testsignin"); // Navigate to SignIn
+        alert("User account created successfully");
+        navigate("./testsignin");
       })
       .catch((error) => {
-        console.error("Error signing up:", error); // Handle error
+        console.error("Error signing up:", error);
         setErrorMessage("Registration failed. Please try again.");
       });
   };
